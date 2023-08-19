@@ -1,0 +1,6 @@
+- Create repo on GitHub
+- Initialize local repo: git init
+- Index file which I want to commit: git add <file name> or . (all)
+- Save changes: git commit -m "comments"
+- Sync with git hub: git remote add origin git@github.com:name/project-name.git
+- Send your local repo to GitHub: git push -u origin main

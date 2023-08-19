@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+I did create repo and added this text document
+=======
+- Created this repo 
+- Created this text document
+- Copy ssh key of this repo
+- Chose folder where I want to save new repo
+- GitBash: git clone <ssh-key>
+
+>>>>>>> refs/remotes/origin/main
