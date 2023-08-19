@@ -1,0 +1,3 @@
+git status - Show which files are in which state. Is there staged files.
+git log - Show us all commits of this repo
+git remote -v - Show current set of remote repo. Or syncronization with GitHub
