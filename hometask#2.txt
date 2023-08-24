@@ -1,0 +1,15 @@
+Task#1: git checkout <filename> or . (all files in directory)
+Task#2: git restore --staged <filename>
+Task#3: git reset HEAD^ (^ - 1 commit. ^^ - 2 commits, and so on)
+	git reset HEAD~2 (~- and how many commits you wanna go back. ~2 - 2 commits)
+Task#4: git revert HEAD make changes
+	git commit -a -m "<comments>"
+	git push
+	
+	(dangerous: git reset ...
+		    git push --force)
+Task#5: git branch <branch_name>
+	git checkout <branch_name>
+	 or
+	git checkout -b <branch_name>
+	  
